@@ -27,3 +27,12 @@ example response
 }
 
 
+use env to store db infomation
+
+example env 
+
+DB = "mongodb+srv://somedb:[somedb]@host/simpleNodeJS-API-JWT?retryWrites=true&w=majority"
+JWTPRIVATEKEY = "somejwtprivatekey"
+SALT = 10
+
+
