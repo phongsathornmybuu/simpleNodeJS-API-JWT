@@ -7,7 +7,7 @@ example json body
 {
     "first_name": "Phongsathorn",
     "last_name": "Phuttha",
-    "email": "thornza007s@gmail.com",
+    "email": "thornza007@gmail.com",
     "password": "thornPassword"
 }
 
